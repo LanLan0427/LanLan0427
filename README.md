@@ -13,19 +13,21 @@
   <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
+---
 
 ## 🧑‍💻 關於我
 
 ```yaml
 名字: LanLan
-地點: 🌏 地球
-目前專注: 打造酷炫的東西 ✨
+地點: 🌏 台灣
+目前專注: 打造 AI 驅動的應用程式 ✨
 座右銘: 我寫程式，故我在 🚀
 ```
 
-- 🔭 我目前正在開發 **很酷的專案**
-- 🌱 我每天都在學習 **新技術**
-- 💬 歡迎問我任何 **技術相關的問題**
+- 🔭 我目前正在開發 **AI Bot 與全端 Web 應用**
+- 🌱 我每天都在學習 **Python、React、AI/LLM 整合**
+- 💬 歡迎問我任何 **Discord Bot、Line Bot、AI 應用的問題**
+- 🌐 個人網站：**[twlanlan.me](https://twlanlan.me)**
 - ⚡ 小趣事：**我熱愛用程式碼將想法變成現實！**
 
 ---
@@ -85,6 +87,19 @@
 
 ---
 
+## 🚀 精選專案
+
+<div align="center">
+
+[![MyWeatherBot](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=MyWeatherBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/MyWeatherBot)
+[![Paper_Degen](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=Paper_Degen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/Paper_Degen)
+[![Tw_Stock_Degen](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=Tw_Stock_Degen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/Tw_Stock_Degen)
+[![Auto-TLDR-Newsletter-Bot](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=Auto-TLDR-Newsletter-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/Auto-TLDR-Newsletter-Bot)
+
+</div>
+
+---
+
 ## 📊 GitHub 統計數據
 
 <div align="center">
@@ -108,7 +123,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%AD%90_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BB%E6%95%B8-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BF%E6%95%B8-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6_Repos-00D4AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PRs-FFA500?style=for-the-badge" />
 </div>
@@ -133,11 +148,23 @@
 
 ---
 
+## ⏱️ 本週 Coding 時間
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LanLan0427&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&layout=compact" />
+</div>
+
+> 💡 需先在 [WakaTime](https://wakatime.com) 註冊並安裝 IDE 外掛後才會顯示數據
+
+---
+
 <div align="center">
 
 ### 🤝 聯繫我！
 
 [![GitHub](https://img.shields.io/badge/GitHub-LanLan0427-181717?style=for-the-badge&logo=github)](https://github.com/LanLan0427)
+[![Website](https://img.shields.io/badge/Website-twlanlan.me-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://twlanlan.me)
+[![Email](https://img.shields.io/badge/Email-聯絡我-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:twlanlan0427@gmail.com)
 
 </div>
 
