@@ -1,38 +1,45 @@
-<!-- 頂部波浪 Header -->
+<!-- Top Wave Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=LanLan&fontSize=80&fontAlignY=35&desc=Welcome%20to%20my%20GitHub!&descAlignY=55&fontColor=FFFFFF" width="100%" />
 </div>
 
-<!-- 動態打字效果 Banner -->
+<!-- Language Switch -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%97%A8+%F0%9F%91%8B+%E6%88%91%E6%98%AF+LanLan;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2!" alt="Typing SVG" />
+
+🌐 English | [繁體中文](README_ZH.md)
+
 </div>
 
-<!-- 動態蛇吞食貢獻圖 -->
+<!-- Typing Effect Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey+%F0%9F%91%8B+I'm+LanLan;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
+
+<!-- Snake Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🧑‍💻 關於我
+## 🧑‍💻 About Me
 
 ```yaml
-名字: LanLan
-地點: 🌏 台灣
-目前專注: 打造 AI 驅動的應用程式 ✨
-座右銘: 我寫程式，故我在 🚀
+Name: LanLan
+Location: 🌏 Taiwan
+Currently: Building AI-powered applications ✨
+Motto: I code, therefore I am 🚀
 ```
 
-- 🔭 我目前正在開發 **AI Bot 與全端 Web 應用**
-- 🌱 我每天都在學習 **Python、React、AI/LLM 整合**
-- 💬 歡迎問我任何 **Discord Bot、Line Bot、AI 應用的問題**
-- 🌐 個人網站：**[twlanlan.me](https://twlanlan.me)**
-- ⚡ 小趣事：**我熱愛用程式碼將想法變成現實！**
+- 🔭 Currently working on **AI Bots & Full-Stack Web Apps**
+- 🌱 Learning **Python, React, AI/LLM Integration** every day
+- 💬 Ask me about **Discord Bots, Line Bots, AI Applications**
+- 🌐 Personal Website: **[twlanlan.me](https://twlanlan.me)**
+- ⚡ Fun fact: **I love turning ideas into reality with code!**
 
 ---
 
-## 🛠️ 技術棧
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -51,7 +58,7 @@
 
 ---
 
-## 🚀 精選專案
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
@@ -59,7 +66,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/LanLan0427/MyWeatherBot">
         <b>🌤️ MyWeatherBot</b><br/>
-        <sub>Discord/Line 氣象 & NASA 天文機器人，整合 Gemini AI 生成幽默解說</sub>
+        <sub>A Discord/Line weather & NASA astronomy bot with Gemini AI humorous commentary</sub>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -69,7 +76,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/LanLan0427/Paper_Degen">
         <b>🎯 Paper Degen</b><br/>
-        <sub>BNB Chain 上的 AI 模擬交易 Discord Bot，鏈上排行榜 + Gemini AI 市場分析</sub>
+        <sub>AI paper trading Discord Bot on BNB Chain with on-chain leaderboard & Gemini AI market analysis</sub>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -81,7 +88,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/LanLan0427/Tw_Stock_Degen">
         <b>📈 Tw Stock Degen</b><br/>
-        <sub>台股 AI 分析 Line Bot，用 FastAPI 建構，支援即時股票解析與 AI 點評</sub>
+        <sub>Taiwan Stock AI analysis Line Bot built with FastAPI, supports real-time stock parsing & AI commentary</sub>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -91,7 +98,7 @@
     <td align="center" width="50%">
       <a href="https://github.com/LanLan0427/Auto-TLDR-Newsletter-Bot">
         <b>📰 Auto TLDR Newsletter Bot</b><br/>
-        <sub>自動讀取 TLDR 電子報並用 Gemini AI 整理成 Discord 繁中懶人包</sub>
+        <sub>Auto-reads TLDR newsletter and summarizes it into Traditional Chinese digest via Gemini AI on Discord</sub>
       </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -104,37 +111,37 @@
 
 ---
 
-## 📊 GitHub 統計數據
+## 📊 GitHub Stats
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&locale=zh-tw" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&locale=zh-tw" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&locale=zh-tw" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&locale=zh-tw" alt="Top Langs" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Langs" />
   </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&locale=zh_Hant" />
+  <img src="https://streak-stats.demolab.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 </div>
 
 ---
 
-## 🏆 成就
+## 🏆 Achievements
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%AD%90_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BB%E6%95%B8-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_Contributions-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6_Repos-00D4AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PRs-FFA500?style=for-the-badge" />
 </div>
 
 ---
 
-## 📈 貢獻活動圖
+## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LanLan0427&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
@@ -142,19 +149,19 @@
 
 ---
 
-## 🧊 3D 貢獻圖
+## 🧊 3D Contribution
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" width="100%" />
 </div>
 
-> 💡 此 3D 貢獻圖由 GitHub Actions 每日自動生成
+> 💡 This 3D contribution graph is auto-generated daily by GitHub Actions
 
 ---
 
 <div align="center">
 
-### 🤝 聯繫我！
+### 🤝 Get in Touch!
 
 [![GitHub](https://img.shields.io/badge/GitHub-LanLan0427-181717?style=for-the-badge&logo=github)](https://github.com/LanLan0427)
 [![Website](https://img.shields.io/badge/Website-twlanlan.me-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://twlanlan.me)
