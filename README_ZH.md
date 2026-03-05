@@ -130,17 +130,6 @@
 
 ---
 
-## 🏆 成就
-
-<div align="center">
-  <img src="https://img.shields.io/badge/%E2%AD%90_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BB%E6%95%B8-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6_Repos-00D4AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PRs-FFA500?style=for-the-badge" />
-</div>
-
----
-
 ## 📈 貢獻活動圖
 
 <div align="center">
