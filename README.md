@@ -51,42 +51,6 @@
 
 ---
 
-## 💪 技能熟練度
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&logo=python&logoColor=white" height="25" />
-<br/>
-<img src="https://progress-bar.xyz/80/?title=Python&width=400&color=3776AB" />
-<br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-72%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25" />
-<br/>
-<img src="https://progress-bar.xyz/72/?title=JavaScript&width=400&color=F7DF1E" />
-<br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-64%25-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25" />
-<br/>
-<img src="https://progress-bar.xyz/64/?title=TypeScript&width=400&color=007ACC" />
-<br/><br/>
-<img src="https://img.shields.io/badge/React-56%25-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
-<br/>
-<img src="https://progress-bar.xyz/56/?title=React&width=400&color=61DAFB" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Node.js-56%25-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="25" />
-<br/>
-<img src="https://progress-bar.xyz/56/?title=Node.js&width=400&color=339933" />
-<br/><br/>
-<img src="https://img.shields.io/badge/HTML%2FCSS-96%25-E34F26?style=flat-square&logo=html5&logoColor=white" height="25" />
-<br/>
-<img src="https://progress-bar.xyz/96/?title=HTML/CSS&width=400&color=E34F26" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Git-88%25-F05032?style=flat-square&logo=git&logoColor=white" height="25" />
-<br/>
-<img src="https://progress-bar.xyz/88/?title=Git&width=400&color=F05032" />
-
-</div>
-
----
-
 ## 🚀 精選專案
 
 <div align="center">
@@ -163,7 +127,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%AD%90_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BF%E6%95%B8-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BB%E6%95%B8-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6_Repos-00D4AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PRs-FFA500?style=for-the-badge" />
 </div>
