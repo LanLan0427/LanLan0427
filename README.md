@@ -48,12 +48,18 @@ fun_fact: I code, therefore I am 🚀
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Langs" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
+  <img src="https://streak-stats.demolab.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
 </div>
 
 ---
@@ -61,12 +67,8 @@ fun_fact: I code, therefore I am 🚀
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=🏆%20LanLan's%20GitHub%20Achievements" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/🌟_Total_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥_Total_Commits-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥_180+_Contributions-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📦_Total_Repos-00D4AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🤝_Total_PRs-FFA500?style=for-the-badge" />
 </div>
