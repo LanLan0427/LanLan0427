@@ -1,6 +1,6 @@
 <!-- 動態打字效果 Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%97%A8+%F0%9F%91%8B+%E6%88%91%E6%98%AF+LanLan;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%97%A8+%F0%9F%91%8B+%E6%88%91%E6%98%AF+LanLan;%E6%AD%A9%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2!" alt="Typing SVG" />
 </div>
 
 <!-- 動態蛇吞食貢獻圖 -->
@@ -67,10 +67,10 @@
 ## 🏆 成就
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🌟_總_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔥_180+_貢獻數-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📦_總_Repos-00D4AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_總_PRs-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%E2%AD%90_Stars-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BB%E6%95%B8-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%A6_Repos-00D4AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PRs-FFA500?style=for-the-badge" />
 </div>
 
 ---
@@ -102,7 +102,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LanLan0427&color=6C63FF&style=for-the-badge&label=訪客人數" />
+  <img src="https://komarev.com/ghpvc/?username=LanLan0427&color=6C63FF&style=for-the-badge&label=VISITORS" />
 </div>
 
 <div align="center">
