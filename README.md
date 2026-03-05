@@ -133,10 +133,7 @@ Motto: I code, therefore I am 🚀
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%E2%AD%90_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_Contributions-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%93%A6_Repos-00D4AA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PRs-FFA500?style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LanLan0427&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -155,7 +152,7 @@ Motto: I code, therefore I am 🚀
   <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" width="100%" />
 </div>
 
-> 💡 This 3D contribution graph is auto-generated daily by GitHub Actions
+> ���� This 3D contribution graph is auto-generated daily by GitHub Actions
 
 ---
 
