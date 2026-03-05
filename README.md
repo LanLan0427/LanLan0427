@@ -58,10 +58,17 @@ fun_fact: I code, therefore I am 🚀
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LanLan0427&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=🏆%20LanLan's%20GitHub%20Achievements" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🌟_Total_Stars-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔥_Total_Commits-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📦_Total_Repos-00D4AA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Total_PRs-FFA500?style=for-the-badge" />
 </div>
 
 ---
