@@ -13,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
 
 ## 🧑‍💻 關於我
 
@@ -131,14 +130,6 @@
 </div>
 
 > 💡 此 3D 貢獻圖由 GitHub Actions 每日自動生成
-
----
-
-## 🎵 每日一句
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 ---
 
