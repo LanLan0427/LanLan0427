@@ -90,12 +90,52 @@
 ## 🚀 精選專案
 
 <div align="center">
-
-[![MyWeatherBot](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=MyWeatherBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/MyWeatherBot)
-[![Paper_Degen](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=Paper_Degen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/Paper_Degen)
-[![Tw_Stock_Degen](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=Tw_Stock_Degen&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/Tw_Stock_Degen)
-[![Auto-TLDR-Newsletter-Bot](https://github-readme-stats.vercel.app/api/pin/?username=LanLan0427&repo=Auto-TLDR-Newsletter-Bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF)](https://github.com/LanLan0427/Auto-TLDR-Newsletter-Bot)
-
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/LanLan0427/MyWeatherBot">
+        <b>🌤️ MyWeatherBot</b><br/>
+        <sub>Discord/Line 氣象 & NASA 天文機器人，整合 Gemini AI 生成幽默解說</sub>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Line_Bot-00C300?style=flat-square&logo=line&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/LanLan0427/Paper_Degen">
+        <b>🎯 Paper Degen</b><br/>
+        <sub>BNB Chain 上的 AI 模擬交易 Discord Bot，鏈上排行榜 + Gemini AI 市場分析</sub>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=flat-square&logo=binance&logoColor=black" />
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/LanLan0427/Tw_Stock_Degen">
+        <b>📈 Tw Stock Degen</b><br/>
+        <sub>台股 AI 分析 Line Bot，用 FastAPI 建構，支援即時股票解析與 AI 點評</sub>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Line_Bot-00C300?style=flat-square&logo=line&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/LanLan0427/Auto-TLDR-Newsletter-Bot">
+        <b>📰 Auto TLDR Newsletter Bot</b><br/>
+        <sub>自動讀取 TLDR 電子報並用 Gemini AI 整理成 Discord 繁中懶人包</sub>
+      </a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -123,7 +163,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/%E2%AD%90_Stars-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BF%E6%95%B8-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%A5_180%2B_%E8%B2%A2%E7%8D%BB%E6%95%B8-FF6B6B?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%93%A6_Repos-00D4AA?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%A4%9D_PRs-FFA500?style=for-the-badge" />
 </div>
@@ -145,16 +185,6 @@
 </div>
 
 > 💡 此 3D 貢獻圖由 GitHub Actions 每日自動生成
-
----
-
-## ⏱️ 本週 Coding 時間
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LanLan0427&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&layout=compact" />
-</div>
-
-> 💡 需先在 [WakaTime](https://wakatime.com) 註冊並安裝 IDE 外掛後才會顯示數據
 
 ---
 
