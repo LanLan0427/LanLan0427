@@ -1,6 +1,6 @@
 <!-- 動態打字效果 Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%97%A8+%F0%9F%91%8B+%E6%88%91%E6%98%AF+LanLan;%E6%AD%A9%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E5%97%A8+%F0%9F%91%8B+%E6%88%91%E6%98%AF+LanLan;%E6%AD%A1%E8%BF%8E%E4%BE%86%E5%88%B0%E6%88%91%E7%9A%84+GitHub+%E5%80%8B%E4%BA%BA%E9%A0%81%E9%9D%A2!" alt="Typing SVG" />
 </div>
 
 <!-- 動態蛇吞食貢獻圖 -->
@@ -59,7 +59,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&locale=zh_Hans" />
+  <img src="https://streak-stats.demolab.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&locale=zh_Hant" />
 </div>
 
 ---
