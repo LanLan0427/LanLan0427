@@ -13,9 +13,10 @@
   <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
+<!-- 語言切換 -->
 <div align="center">
 
-🌐 [English](README.md) | **繁體中文**
+🌐 [English](README.md) | 繁體中文
 
 </div>
 
