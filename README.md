@@ -124,6 +124,16 @@
 
 ---
 
+## 🧊 3D 貢獻圖
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" width="100%" />
+</div>
+
+> 💡 此 3D 貢獻圖由 GitHub Actions 每日自動生成
+
+---
+
 ## 🎵 每日一句
 
 <div align="center">
