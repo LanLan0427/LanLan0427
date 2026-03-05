@@ -54,15 +54,33 @@
 
 <div align="center">
 
-```text
-Python       ████████████████████░░░░░   80%
-JavaScript   ██████████████████░░░░░░░   72%
-TypeScript   ████████████████░░░░░░░░░   64%
-React        ██████████████░░░░░░░░░░░   56%
-Node.js      ██████████████░░░░░░░░░░░   56%
-HTML/CSS     ████████████████████████░   96%
-Git          ██████████████████████░░░   88%
-```
+<img src="https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&logo=python&logoColor=white" height="25" />
+<br/>
+<img src="https://progress-bar.xyz/80/?title=Python&width=400&color=3776AB" />
+<br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-72%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25" />
+<br/>
+<img src="https://progress-bar.xyz/72/?title=JavaScript&width=400&color=F7DF1E" />
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-64%25-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25" />
+<br/>
+<img src="https://progress-bar.xyz/64/?title=TypeScript&width=400&color=007ACC" />
+<br/><br/>
+<img src="https://img.shields.io/badge/React-56%25-61DAFB?style=flat-square&logo=react&logoColor=black" height="25" />
+<br/>
+<img src="https://progress-bar.xyz/56/?title=React&width=400&color=61DAFB" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-56%25-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="25" />
+<br/>
+<img src="https://progress-bar.xyz/56/?title=Node.js&width=400&color=339933" />
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML%2FCSS-96%25-E34F26?style=flat-square&logo=html5&logoColor=white" height="25" />
+<br/>
+<img src="https://progress-bar.xyz/96/?title=HTML/CSS&width=400&color=E34F26" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Git-88%25-F05032?style=flat-square&logo=git&logoColor=white" height="25" />
+<br/>
+<img src="https://progress-bar.xyz/88/?title=Git&width=400&color=F05032" />
 
 </div>
 
@@ -87,14 +105,6 @@ Git          ██████████████████████�
 
 ---
 
-## 🏆 GitHub 獎盃
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LanLan0427&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
----
-
 ## 🏆 成就
 
 <div align="center">
@@ -114,13 +124,11 @@ Git          ██████████████████████�
 
 ---
 
-## 🧊 3D 貢獻圖
+## 🎵 每日一句
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LanLan0427/LanLan0427/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
-> 💡 3D 貢獻圖需要設定 GitHub Actions 自動生成，請參考 [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ---
 
