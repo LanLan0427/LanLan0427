@@ -83,14 +83,6 @@
 
 ---
 
-## 🎵 每日一句
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 聯繫我！
