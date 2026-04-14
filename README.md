@@ -86,14 +86,14 @@ Motto: I code, therefore I am 🚀
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/LanLan0427/Tw_Stock_Degen">
-        <b>📈 Tw Stock Degen</b><br/>
-        <sub>Taiwan Stock AI analysis Line Bot built with FastAPI, supports real-time stock parsing & AI commentary</sub>
+      <a href="https://github.com/LanLan0427/Sui-Taiwan-Lottery">
+        <b>🎰 Sui Taiwan Lottery</b><br/>
+        <sub>Decentralized Taiwan lottery project on Sui using Move smart contracts</sub>
       </a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Line_Bot-00C300?style=flat-square&logo=line&logoColor=white" />
+      <img src="https://img.shields.io/badge/Move-4A4A4A?style=flat-square" />
+      <img src="https://img.shields.io/badge/Sui-6FBCF0?style=flat-square&logo=sui&logoColor=white" />
+      <img src="https://img.shields.io/badge/Smart_Contract-2E8B57?style=flat-square" />
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/LanLan0427/Auto-TLDR-Newsletter-Bot">
