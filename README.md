@@ -111,30 +111,22 @@ Motto: I code, therefore I am 🚀
 
 ---
 
-## 📊 GitHub Stats
+## ✨ What I Build
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Langs" />
-  </picture>
-</div>
+| Focus | What that looks like |
+| --- | --- |
+| 🤖 **AI experiences** | Useful LLM-powered features and thoughtful automation |
+| 💬 **Conversational products** | Discord and LINE bots that make information easier to use |
+| 🌐 **Full-stack web apps** | Practical tools with polished, approachable interfaces |
+| ⛓️ **Web3 experiments** | Playful on-chain ideas, smart contracts, and community features |
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-</div>
+> **Building in public, learning every day, and turning ideas into code.**
 
 ---
 
-## 📈 Contribution Graph
+## 🧭 Currently Exploring
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LanLan0427&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
-</div>
+`Python` · `React` · `TypeScript` · `FastAPI` · `AI/LLM integration` · `Bot automation`
 
 ---
 
