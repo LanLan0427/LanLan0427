@@ -111,30 +111,22 @@
 
 ---
 
-## 📊 GitHub 統計數據
+## ✨ 我打造的產品
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&locale=zh-tw" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LanLan0427&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&locale=zh-tw" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&locale=zh-tw" />
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LanLan0427&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&locale=zh-tw" alt="Top Langs" />
-  </picture>
-</div>
+| 方向 | 實際呈現 |
+| --- | --- |
+| 🤖 **AI 體驗** | 有用的 LLM 功能與貼近情境的自動化 |
+| 💬 **對話式產品** | 讓資訊更容易使用的 Discord 與 LINE Bot |
+| 🌐 **全端 Web 應用** | 實用、直覺且有完成度的數位工具 |
+| ⛓️ **Web3 實驗** | 有趣的鏈上想法、智慧合約與社群功能 |
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=LanLan0427&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&locale=zh_Hant" />
-</div>
+> **公開打造、每天學習，並把想法變成程式碼。**
 
 ---
 
-## 📈 貢獻活動圖
+## 🧭 目前探索中
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LanLan0427&theme=react-dark&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
-</div>
+`Python` · `React` · `TypeScript` · `FastAPI` · `AI/LLM 整合` · `Bot 自動化`
 
 ---
 
